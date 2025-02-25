@@ -1,0 +1,101 @@
+
+** What is Python ? **
+
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+Python ek high-level, interpreted, object-oriented programming language hai jo Guido van Rossum ne 1991 mein develop ki thi. Yeh simple syntax, readability, aur versatility ki wajah se duniya ki sabse popular programming languages mein se ek hai.
+
+
+
+** Used **
+1) web development (server-side),
+2) software development,
+3) mathematics,
+4) system scripting.
+ 
+ ** Features **
+✅ Simple & Readable Syntax → Python ka code human-friendly hota hai
+✅ Interpreted Language → Direct execution without compilation
+✅ Object-Oriented & Functional → OOP aur functional programming dono support karta hai
+✅ Dynamically Typed → Variable ka type likhne ki zaroorat nahi hoti
+✅ Extensive Libraries → Data science, AI, web dev, automation, har field ke liye modules available hain
+✅ Cross-Platform → Windows, Linux, macOS, Android sab pe chal sakta hai
+✅ Automation Friendly → DevOps, scripting, aur task automation ke liye best hai
+✅ Large Community Support → Har problem ka solution online available hota hai
+
+
+
+** Which platforms use Python **
+Windows
+Linux
+macOS
+Android (via Kivy, BeeWare, Chaquopy)
+iOS (via BeeWare)
+Embedded Systems (Raspberry Pi, Arduino with MicroPython, CircuitPython)
+
+
+
+* Google Collab
+* Anaconda
+* Miniconda
+
+** Web Developoment using Python **
+1) Django → Full-stack web applications (Admin panel, authentication, ORM)
+2) Flask → Lightweight and flexible web APIs and microservices
+3) FastAPI → High-performance API development (asynchronous support)
+4) Pyramid → Scalable web applications
+5) Tornado → Real-time applications (WebSockets, chat apps)
+
+
+** Data Science & ML
+1) TensorFlow → Deep Learning models
+2) PyTorch → AI & ML model training
+3) Scikit-Learn → Machine learning algorithms
+4) Pandas → Data analysis & manipulation
+5) NumPy → Scientific computing & numerical operations
+6) Matplotlib / Seaborn → Data visualization
+7) OpenCV → Computer Vision & image processing
+
+
+** Automation & Scripting Frameworks **
+1) Selenium → Web automation & testing
+2) PyAutoGUI → GUI automation
+3) BeautifulSoup & Scrapy → Web scraping
+4) Requests → HTTP requests handling
+5) Paramiko → SSH-based automation
+
+** Game Development Frameworks **
+1) Pygame → 2D game development
+2) Panda3D → 3D game engine
+3) Godot (Python bindings) → Game scripting
+4) Cocos2d → Mobile game development
+
+**  GUI (Desktop Application) Development **
+1) PyQt / PySide → Cross-platform GUI applications
+2) Tkinter → Built-in GUI toolkit for Python
+3) Kivy → Mobile & desktop touch applications
+4) wxPython → Native-looking desktop apps
+
+** Cybersecurity & Ethical Hacking **
+1) Scapy → Packet sniffing & network analysis
+2) PyShark → Wireshark-based network monitoring
+3) pwntools → Exploit development
+4) Impacket → Network security auditing
+
+
+** Embedded Systems & IoT **
+1) MicroPython → IoT devices & microcontrollers
+2) CircuitPython → Adafruit hardware control
+3) RPi.GPIO → Raspberry Pi hardware control
+4) OpenCV + Raspberry Pi → Computer vision for IoT
+
+** Blockchain & Cryptocurrency **
+1) Web3.py → Ethereum blockchain interaction
+2) PyBitcoinTools → Bitcoin transactions
+3) Brownie → Smart contract development (Ethereum)
+
+
+**  DevOps & Cloud Automation **
+1) Ansible (Python-based) → IT automation
+2) Fabric → Server management & automation
+3) Boto3 → AWS services management
