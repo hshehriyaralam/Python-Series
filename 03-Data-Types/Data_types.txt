@@ -1,0 +1,14 @@
+
+
+** Data Types in Python 
+
+1) int
+2) float
+3) str
+4) complex
+imgginery numbers ko add kr sakta hai 
+5) list
+6) tupple
+7) set : repeated value automatically eliminate 
+8) dic
+
