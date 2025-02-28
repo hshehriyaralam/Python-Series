@@ -1,0 +1,13 @@
+
+
+** Python establish in 1991 and first version release in 1994
+** Java Established in 1991 But first release in 1996 
+** There are more than 700 Programing  languages ​​in the world.
+** Python created by "Guido van Rossum".
+
+
+** Guido van Rossum used to watch a show called "Monty Python's Flying Circus" and got the name of his language inspired by the cricketer there.
+
+
+** Python version 2 release in 2002.
+** Python is fluent in Java and C++ languages, so it has its own library built in C++.
