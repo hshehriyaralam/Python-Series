@@ -1,0 +1,27 @@
+** Python Inner Workings**
+When you run any Python code, it gets converted into Bytecode, and this Bytecode is then executed by the Python Virtual Machine (PVM).
+
+When you install Python, both the Bytecode compiler and the Python Virtual Machine (PVM) are installed automatically.
+
+Compiled to Bytecode
+Bytecode is a low-level set of instructions.
+It is platform-independent, meaning it can run on any operating system.
+Bytecode runs faster than plain source code.
+Python files compiled to Bytecode usually have the .pyc or .pye extension.
+
+__pycache__ Folder
+This folder stores compiled Bytecode of Python files.
+It is created when you import a Python module, not when you run a script directly.
+For example: hello_chai.cpython-312.pye
+cpython refers to the default implementation of Python.
+312 means the Python version is 3.12.
+
+Python Virtual Machine (PVM)
+The PVM contains a loop that reads and executes Bytecode instructions one by one.
+It works as the runtime engine of Python.
+The PVM is also called the Python interpreter.
+
+
+Important Notes
+Bytecode is not machine code; it's an intermediate representation that only Python understands.
+Bytecode is specifically interpreted by Python, not directly executed by the hardware.

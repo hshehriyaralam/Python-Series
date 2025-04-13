@@ -1,0 +1,19 @@
+Python is a popular programming language . It was Created By Guido Van Rossum and released in 1991. 
+
+Python Used Is :
+1) Web development (Server-Side)
+** Server-Side**
+wo part jo backend pr run hota hai , data process hota hai , database se interact hota hai and clinet ko response dya jata hai .
+"" Python ka syntaxt clean or redable hota hai . isi lye development fast Hoti hai . ML and Data Analysist ke integration ke lye best hai ""
+
+
+2) Software development
+"" Python Software development main use hoti hai kyunke iska syntaxt Simple hai . GUI tools available hai or ye quickly scalbe soltion develo krne main madadd krti hai 
+
+3) Mathamatics 
+NumPy,SciPy libraries Complex Mathamatics Operations ke lye use Hoti hai and SymPy se algebraic expressions solve ki ja sakti hai . Matplotlib , Seaborn ka use graphs and charts ke lye .
+"" Python ki powerfull libraries like NumPy SymPy aur Mathplotlib ke wajah se ye Complex Mathamatical Analysist aur visualizations ke lye use hOti hai ..
+
+
+4) System Scripting 
+"" Python System Scripting main isi lye use hOti hai kyunke ke ye OS-Level tasks ko automate karne ke lye simple syntaxt aur powerfull module provide krti hai "".
