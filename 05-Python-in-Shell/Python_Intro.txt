@@ -8,10 +8,10 @@ wo part jo backend pr run hota hai , data process hota hai , database se interac
 
 
 2) Software development
-"" Python Software development main use hoti hai kyunke iska syntaxt Simple hai . GUI tools available hai or ye quickly scalbe soltion develo krne main madadd krti hai 
+"" Python Software development main use hoti hai kyunke iska syntaxt Simple hai . GUI tools available hai or ye quickly scalable soltion develop krne main madadd krti hai 
 
 3) Mathamatics 
-NumPy,SciPy libraries Complex Mathamatics Operations ke lye use Hoti hai and SymPy se algebraic expressions solve ki ja sakti hai . Matplotlib , Seaborn ka use graphs and charts ke lye .
+NumPy,SciPy libraries Complex Mathamatics Operations ke lye use Hoti hai and SymPy se algebraic expressions solve ki ja sakti hai . Matplotlib , Seaborn ka use hoti hai  graphs and charts ke lye .
 "" Python ki powerfull libraries like NumPy SymPy aur Mathplotlib ke wajah se ye Complex Mathamatical Analysist aur visualizations ke lye use hOti hai ..
 
 
