@@ -1,0 +1,30 @@
+** Matuable & Immatable **
+Matuable wo Type jisse change Kya ja sakta nad Immatable wo Jisse change nh kya 
+ ja sakta 
+
+
+ ** Matuable **
+ List, Dictionary , Sets , ByteArray , Array
+ 
+ ** Immatable **
+ Numbers , Floats ,Strings , Tuple , Complex, Integers and frozen sets
+
+
+** Immatable Types Change Memory main change nahi ho sakte But Memory refrence Change Kr sakte Hain 
+# Example 01
+username = "Hitesh"   || first Memory refrence username ko Hitesh mila
+username = "Chai Or Code" || then iska Memory refrence Change kr dya Hitesh apni Jaga Memory Main Mojood hai 
+ print("userName",username)
+
+
+ is tarha 
+#Example 02
+
+x = 10 || x ki value  10 pass ki Memory main 
+print(x) || x print kye to 10 aye value 
+y = x     || y variable ko x ke equal kr dya ab x and y ka Memory refrence ek hi hai 
+print(y) || y ki value bh 10 aa gai 
+x = 15   || But ab x ka refrence 15 kr dya ... 10 apni jaga Memory main hain wo change nh hui 
+print(x)  || ab x ki value 15 hogi
+print(y)  ||But y Ka refrence change nh kya y ki value 10 hi rahegi 
+
