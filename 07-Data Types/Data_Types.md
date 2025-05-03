@@ -72,3 +72,7 @@ in 3eno ko Numeric Data Types kehte hain
 7) Set : {1,3,4,,4,} || Set  Not preare Duplicate values 
 8) Frozen set :{[2,3,,4,4,"shahhneer"]}   ||terminate Dupicate values and set order list 
 9) dict : {1 : "red", "2" : "blue"}
+
+
+
+
